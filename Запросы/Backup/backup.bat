@@ -1,0 +1,1 @@
+sqlcmd -s LAPTOP-UK68BV1P –i C:\Users\host\Desktop\Практика\Запросы\Backup\backup.sql
